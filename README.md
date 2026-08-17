@@ -1,6 +1,6 @@
 # FinanIA — Assistente Financeiro Educacional
 
-Projeto desenvolvido para o Lab **"Construa Seu Assistente Virtual Com Inteligência Artificial"** do Bootcamp Santander no DIO.
+Projeto desenvolvido para o Lab **"Construa Seu Assistente Virtual Com Inteligência Artificial"** do Bootcamp Bradesco no DIO.
 
 O FinanIA ajuda pessoas que estão começando a organizar a vida financeira a entender conceitos básicos, como reserva de emergência, orçamento, juros e investimentos de renda fixa. Ele consulta uma base de conhecimento local, identifica a intenção da pergunta e oferece simulações educativas simples.
 

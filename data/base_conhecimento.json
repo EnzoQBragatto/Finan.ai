@@ -1,0 +1,42 @@
+[
+  {
+    "id": "reserva_emergencia",
+    "titulo": "Reserva de emergência",
+    "palavras_chave": ["reserva", "emergência", "emergencia", "imprevisto", "segurança"],
+    "resposta": "A reserva de emergência é um valor separado para despesas inesperadas, como perda de renda ou um reparo urgente. Em geral, o primeiro passo é calcular seus gastos essenciais mensais e construir esse valor aos poucos.",
+    "proximo_passo": "Liste seus gastos essenciais e defina uma meta mensal de aporte.",
+    "fonte": "Conteúdo educacional interno — finanças pessoais"
+  },
+  {
+    "id": "orcamento",
+    "titulo": "Orçamento pessoal",
+    "palavras_chave": ["orçamento", "orcamento", "gastos", "despesas", "salário", "salario", "planejamento"],
+    "resposta": "Um orçamento pessoal registra quanto entra e quanto sai por mês. Separar despesas essenciais, variáveis e objetivos ajuda a visualizar escolhas e evitar gastar acima da renda.",
+    "proximo_passo": "Anote receitas e despesas dos últimos 30 dias antes de definir limites.",
+    "fonte": "Conteúdo educacional interno — finanças pessoais"
+  },
+  {
+    "id": "juros_compostos",
+    "titulo": "Juros compostos",
+    "palavras_chave": ["juros", "compostos", "rendimento", "render", "rentabilidade"],
+    "resposta": "Nos juros compostos, os rendimentos de cada período são incorporados ao saldo e também passam a render nos períodos seguintes. Por isso, prazo, taxa e constância dos aportes fazem diferença.",
+    "proximo_passo": "Use o comando 'simular' para observar o efeito de aportes e prazo em um cenário hipotético.",
+    "fonte": "Conteúdo educacional interno — matemática financeira"
+  },
+  {
+    "id": "cdi",
+    "titulo": "CDI e renda fixa",
+    "palavras_chave": ["cdi", "renda fixa", "cdb", "tesouro", "investimento"],
+    "resposta": "CDI é uma taxa de referência muito usada para comparar rendimentos de produtos de renda fixa. A rentabilidade não deve ser o único critério: liquidez, prazo, riscos, impostos e objetivos também importam.",
+    "proximo_passo": "Compare produtos observando a liquidez e se o prazo combina com seu objetivo.",
+    "fonte": "Conteúdo educacional interno — produtos financeiros"
+  },
+  {
+    "id": "endividamento",
+    "titulo": "Organização de dívidas",
+    "palavras_chave": ["dívida", "divida", "cartão", "cartao", "atrasado", "negociar"],
+    "resposta": "Para organizar dívidas, comece mapeando saldo, taxa, vencimento e consequências de atraso. Priorize entender as condições antes de contratar novo crédito e procure canais oficiais para negociar quando necessário.",
+    "proximo_passo": "Monte uma lista de dívidas e entre em contato com os credores pelos canais oficiais.",
+    "fonte": "Conteúdo educacional interno — uso consciente de crédito"
+  }
+]

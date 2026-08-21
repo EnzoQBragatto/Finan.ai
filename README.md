@@ -1,4 +1,4 @@
-# Finan.ai — Assistente Financeiro Educacional
+# Finance.ai — Assistente Financeiro Educacional
 
 Projeto desenvolvido para o Lab **"Construa Seu Assistente Virtual Com Inteligência Artificial"** do Bootcamp Bradesco no DIO.
 
